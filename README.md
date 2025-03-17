@@ -1,2 +1,3 @@
 # pipeline2
-this is pipeline2 repo 
+In this repo we have integrated Git with Jenkins, changes can be made for github ( Jenkinsfile )
+pollscm is configured for 2 hrs 
